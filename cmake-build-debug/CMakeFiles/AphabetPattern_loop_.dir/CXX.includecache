@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/AphabetPattern(loop)/main.cpp
+iomanip
+-
+iostream
+-
+stdlib.h
+-
+unistd.h
+-
+windows.h
+-
+chrono
+-
+thread
+-
+
